@@ -5,9 +5,9 @@ table {
 table,
 td,
 th {
-    border: 2px solid rgb(75, 13, 61);
+    border: 2px solid rgb(38, 0, 255);
 }
 
 .new {
-    background-color: rgb(156, 30, 127)
+    background-color: rgb(85, 3, 66)
 }
